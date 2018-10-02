@@ -22,3 +22,4 @@ def replace_ip(file_name):
     return l4
 
 print(replace_ip('running-config.cfg'))
+  
